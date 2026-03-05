@@ -1,6 +1,6 @@
 # MeowSort 😺
 
-![PyPI](https://img.shields.io/pypi/v/meowsort)
+![PyPI Version](https://img.shields.io/pypi/v/meowsort?color=blue)
 ![Python](https://img.shields.io/pypi/pyversions/meowsort)
 ![License](https://img.shields.io/github/license/ShauryaSingh1709/meowsort)
 
@@ -33,8 +33,6 @@ Install directly from PyPI:
 ```bash
 pip install meowsort
 ```
-[![Install](https://img.shields.io/badge/install-pip%20install%20meowsort-blue)](https://pypi.org/project/meowsort/)
-
 Verify installation:
 
 ```bash
