@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "meowsort"
+version = "0.1.0"
+description = "Lightweight Python sorting utility"
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [
+    {name = "Shaurya Singh"}
+]
+license = {text = "MIT"}
+keywords = ["sorting", "algorithms", "python", "utilities"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent"
+]

@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+meowsort/__init__.py
+meowsort/algorithms.py
+meowsort/exceptions.py
+meowsort/sorter.py
+meowsort.egg-info/PKG-INFO
+meowsort.egg-info/SOURCES.txt
+meowsort.egg-info/dependency_links.txt
+meowsort.egg-info/top_level.txt
