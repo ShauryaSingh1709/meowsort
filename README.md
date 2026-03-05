@@ -3,7 +3,6 @@
 ![PyPI](https://img.shields.io/pypi/v/meowsort)
 ![Python](https://img.shields.io/pypi/pyversions/meowsort)
 ![License](https://img.shields.io/github/license/ShauryaSingh1709/meowsort)
-![Downloads](https://img.shields.io/pypi/dm/meowsort)
 
 A lightweight Python sorting utility that automatically selects the best algorithm for your dataset.
 
@@ -151,7 +150,7 @@ meowsort
 │   └── exceptions.py
 │
 ├── tests
-│   └── test_basic.py
+│   └── test.py
 │
 ├── pyproject.toml
 ├── README.md
