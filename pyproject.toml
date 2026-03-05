@@ -4,16 +4,16 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "meowsort"
-version = "0.1.1"
+version = "0.1.3"
 description = "Lightweight Python sorting utility that automatically selects the best sorting algorithm."
 readme = "README.md"
 requires-python = ">=3.8"
 
 authors = [
-    { name="Shaurya Singh" }
+    { name="Shaurya Pratap Singh" }
 ]
 
-license = {text = "MIT"}
+license = {file = "LICENSE"}
 
 keywords = ["sorting", "algorithms", "python", "utilities"]
 
