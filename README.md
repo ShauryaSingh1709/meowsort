@@ -5,9 +5,7 @@
 ![License](https://img.shields.io/github/license/ShauryaSingh1709/meowsort)
 ![Downloads](https://img.shields.io/pypi/dm/meowsort)
 
-
-**MeowSort** is a lightweight Python utility library that provides a simple and reliable interface for sorting iterables.
-It automatically selects the appropriate sorting algorithm depending on the dataset size.
+A lightweight Python sorting utility that automatically selects the best algorithm for your dataset.
 
 The goal of this library is to provide a minimal, easy-to-use sorting tool for developers and students.
 
@@ -36,6 +34,7 @@ Install directly from PyPI:
 ```bash
 pip install meowsort
 ```
+[![Install](https://img.shields.io/badge/install-pip%20install%20meowsort-blue)](https://pypi.org/project/meowsort/)
 
 Verify installation:
 
